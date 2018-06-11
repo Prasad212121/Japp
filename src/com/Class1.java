@@ -3,8 +3,8 @@ package com;
 public class Class1 {
 
 	int a;
-	int sal;
-	int pf;
+	int sal1;
+	int pf1;
 }
 //c1
 //c2
